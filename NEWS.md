@@ -1,5 +1,7 @@
 # News
 
+Test entry line
+
 ## Sat Jun 12 2021:
 
 [Version 0.15.1](https://github.com/lathiat/nss-mdns/releases/tag/v0.15.1)
